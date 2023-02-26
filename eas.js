@@ -113,7 +113,6 @@ function changeColor() {
 Grid();
 changeColor1();
 
-slider.onchange = (e) => slider.oninput(e.target.value)
 //assembled the output value with the slider value
 slider.oninput = function() {
     output.innerHTML = this.value + " x " + this.value;
