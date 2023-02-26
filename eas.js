@@ -26,7 +26,7 @@ range.setAttribute("id", "myRange");
 range.setAttribute("type", "range");
 range.setAttribute("min", "10");
 range.setAttribute("max", "80");
-range.setAttribute("value", "16");
+//range.setAttribute("value", "16");
 range.style = "width: 50%; margin-top: 35%; height: 30px;";
 divrange.appendChild(range);
 console.log(range);
