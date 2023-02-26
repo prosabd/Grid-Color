@@ -143,7 +143,7 @@ slider.oninput = function() {
 
 
 
-
+/*
 
 
 const END = 'change';
@@ -226,3 +226,5 @@ class RangeInput {
 	}
 
 }
+
+*/
